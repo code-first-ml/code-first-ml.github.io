@@ -9,7 +9,7 @@ These books provide a code-first introduction to ML.
 
 Main Toolset
 
-1. JAX
+1. JAX/PyTorch
 2. TFP for distributions
 3. BlackJax for MCMC
 4. Optax and Jaxopt for optimization
