@@ -1,6 +1,6 @@
 # Code First ML
 
-These books provide a code first introduction to ML. These books mirror book 1 and book 2 on Probabilistic ML by Kevin Murphy.
+These books provide a code-first introduction to ML.
 
 [Code First ML Book 1](https://code-first-ml.github.io/book1/intro.html)
 
